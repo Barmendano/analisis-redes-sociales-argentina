@@ -59,9 +59,15 @@ El desarrollo del proyecto comprendió las siguientes etapas:
 
 ## Dashboard
 
-El dashboard desarrollado en Power BI permite explorar de forma interactiva indicadores relacionados con el uso de **WhatsApp, Facebook, Instagram, X (Twitter), TikTok, YouTube, Twitch y LinkedIn**, mediante filtros dinámicos por edad, nivel educativo, situación laboral y otras variables de análisis.
+El dashboard desarrollado en Power BI permite explorar de forma interactiva indicadores relacionados con el uso de WhatsApp, Facebook, Instagram, X (Twitter), TikTok, YouTube, Twitch, Snapchat, Pinterest, LinkedIn y Tinder mediante filtros dinámicos por edad, provincia, año, nivel educativo y situación laboral.
 
-> **Próximamente se incorporarán capturas de pantalla del dashboard.**
+### Vista general
+
+![Dashboard principal](assets/dashboard-principal.png)
+
+### Análisis por tipo de red social
+
+![Dashboard redes sociales](assets/dashboard-redes-sociales.png)
 
 ---
 
