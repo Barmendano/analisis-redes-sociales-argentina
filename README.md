@@ -1,4 +1,4 @@
-# Uso del tiempo destinado a redes sociales por jóvenes en Argentina
+# Proyecto 1 | Uso del tiempo destinado a redes sociales por jóvenes en Argentina (Power BI)
 
 Análisis exploratorio de datos desarrollado en **Power BI** a partir de información de la **Encuesta Nacional de Consumos Culturales**, con el objetivo de estudiar los hábitos de uso de redes sociales de jóvenes de 18 a 29 años en Argentina.
 
