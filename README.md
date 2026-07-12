@@ -95,9 +95,7 @@ El análisis permitió identificar, entre otros resultados, que:
 
 Este proyecto constituye la primera etapa de un mismo caso de estudio.
 
-Posteriormente, el análisis fue desarrollado nuevamente utilizando **R**, empleando la misma fuente de datos para construir un flujo de trabajo reproducible mediante programación e incorporar un informe dinámico en formato HTML.
-
-Una vez publicado, el repositorio correspondiente será incorporado como continuación de este proyecto.
+Como complemento de este proyecto se desarrolló un segundo análisis utilizando R, basado en la misma temática y en información proveniente de la Encuesta Nacional de Consumos Culturales. Dicho proyecto incorpora un flujo de trabajo reproducible mediante programación y un informe dinámico en formato HTML.
 
 ---
 
